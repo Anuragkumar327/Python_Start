@@ -50,7 +50,7 @@ a = 10
 b = 20
 print(f"the sum of the value{a+b} ")
 
-# using Dictionary 
+# use of f string in the Dictionary
 
 data = {"Name":"Anurag","Age":20}
 print(f"Name:{data['Name']} , Age:{data['Age']}")

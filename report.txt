@@ -1,0 +1,5 @@
+Name:Anurag
+Age22
+Agepython
+Age[87, 90, 78]
+Average: 85.0
